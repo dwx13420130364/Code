@@ -1,0 +1,11 @@
+.\objects\slab.o: ..\..\rtthread\src\slab.c
+.\objects\slab.o: ..\..\rtthread\include\rthw.h
+.\objects\slab.o: ..\..\rtthread\include\rtthread.h
+.\objects\slab.o: ..\firmware\rtconfig.h
+.\objects\slab.o: ..\..\rtthread\include\rtdebug.h
+.\objects\slab.o: ..\..\rtthread\include\rtdef.h
+.\objects\slab.o: D:\MDK\ARM\ARMCC\Bin\..\include\stdarg.h
+.\objects\slab.o: ..\..\rtthread\include\rtservice.h
+.\objects\slab.o: ..\..\rtthread\include\rtm.h
+.\objects\slab.o: ..\..\rtthread\include\rtthread.h
+.\objects\slab.o: ..\..\rtthread\components\finsh\finsh.h

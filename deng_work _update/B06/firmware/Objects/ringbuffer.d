@@ -1,0 +1,12 @@
+.\objects\ringbuffer.o: rt_thread\components\drivers\src\ringbuffer.c
+.\objects\ringbuffer.o: .\rt_thread\include\rtthread.h
+.\objects\ringbuffer.o: ..\firmware\rtconfig.h
+.\objects\ringbuffer.o: .\rt_thread\include\rtdebug.h
+.\objects\ringbuffer.o: .\rt_thread\include\rtdef.h
+.\objects\ringbuffer.o: D:\MDK\ARM\ARMCC\Bin\..\include\stdarg.h
+.\objects\ringbuffer.o: .\rt_thread\include\rtservice.h
+.\objects\ringbuffer.o: .\rt_thread\include\rtm.h
+.\objects\ringbuffer.o: .\rt_thread\include\rtthread.h
+.\objects\ringbuffer.o: .\rt_thread\components\drivers\include\rtdevice.h
+.\objects\ringbuffer.o: .\rt_thread\components\drivers\include\drivers/serial.h
+.\objects\ringbuffer.o: D:\MDK\ARM\ARMCC\Bin\..\include\string.h

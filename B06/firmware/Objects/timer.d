@@ -1,0 +1,11 @@
+.\objects\timer.o: ..\..\rtthread\src\timer.c
+.\objects\timer.o: ..\..\rtthread\include\rtthread.h
+.\objects\timer.o: ..\firmware\rtconfig.h
+.\objects\timer.o: ..\..\rtthread\include\rtdebug.h
+.\objects\timer.o: ..\..\rtthread\include\rtdef.h
+.\objects\timer.o: D:\MDK\ARM\ARMCC\Bin\..\include\stdarg.h
+.\objects\timer.o: ..\..\rtthread\include\rtservice.h
+.\objects\timer.o: ..\..\rtthread\include\rtm.h
+.\objects\timer.o: ..\..\rtthread\include\rtthread.h
+.\objects\timer.o: ..\..\rtthread\components\finsh\finsh.h
+.\objects\timer.o: ..\..\rtthread\include\rthw.h

@@ -1,0 +1,11 @@
+.\objects\pin.o: ..\..\rtthread\components\drivers\misc\pin.c
+.\objects\pin.o: ..\..\rtthread\components\drivers\include\drivers/pin.h
+.\objects\pin.o: ..\..\rtthread\include\rtthread.h
+.\objects\pin.o: ..\firmware\rtconfig.h
+.\objects\pin.o: ..\..\rtthread\include\rtdebug.h
+.\objects\pin.o: ..\..\rtthread\include\rtdef.h
+.\objects\pin.o: D:\MDK\ARM\ARMCC\Bin\..\include\stdarg.h
+.\objects\pin.o: ..\..\rtthread\include\rtservice.h
+.\objects\pin.o: ..\..\rtthread\include\rtm.h
+.\objects\pin.o: ..\..\rtthread\include\rtthread.h
+.\objects\pin.o: ..\..\rtthread\components\finsh\finsh.h

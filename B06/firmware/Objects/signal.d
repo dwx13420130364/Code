@@ -1,0 +1,13 @@
+.\objects\signal.o: ..\..\rtthread\src\signal.c
+.\objects\signal.o: D:\MDK\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\signal.o: D:\MDK\ARM\ARMCC\Bin\..\include\string.h
+.\objects\signal.o: ..\..\rtthread\include\rthw.h
+.\objects\signal.o: ..\..\rtthread\include\rtthread.h
+.\objects\signal.o: ..\firmware\rtconfig.h
+.\objects\signal.o: ..\..\rtthread\include\rtdebug.h
+.\objects\signal.o: ..\..\rtthread\include\rtdef.h
+.\objects\signal.o: D:\MDK\ARM\ARMCC\Bin\..\include\stdarg.h
+.\objects\signal.o: ..\..\rtthread\include\rtservice.h
+.\objects\signal.o: ..\..\rtthread\include\rtm.h
+.\objects\signal.o: ..\..\rtthread\include\rtthread.h
+.\objects\signal.o: ..\..\rtthread\components\finsh\finsh.h

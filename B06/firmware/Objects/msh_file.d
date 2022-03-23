@@ -1,0 +1,10 @@
+.\objects\msh_file.o: ..\..\rtthread\components\finsh\msh_file.c
+.\objects\msh_file.o: ..\..\rtthread\include\rtthread.h
+.\objects\msh_file.o: ..\firmware\rtconfig.h
+.\objects\msh_file.o: ..\..\rtthread\include\rtdebug.h
+.\objects\msh_file.o: ..\..\rtthread\include\rtdef.h
+.\objects\msh_file.o: D:\MDK\ARM\ARMCC\Bin\..\include\stdarg.h
+.\objects\msh_file.o: ..\..\rtthread\include\rtservice.h
+.\objects\msh_file.o: ..\..\rtthread\include\rtm.h
+.\objects\msh_file.o: ..\..\rtthread\include\rtthread.h
+.\objects\msh_file.o: ..\..\rtthread\components\finsh\finsh.h

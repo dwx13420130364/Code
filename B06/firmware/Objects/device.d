@@ -1,0 +1,10 @@
+.\objects\device.o: ..\..\rtthread\src\device.c
+.\objects\device.o: ..\..\rtthread\include\rtthread.h
+.\objects\device.o: ..\firmware\rtconfig.h
+.\objects\device.o: ..\..\rtthread\include\rtdebug.h
+.\objects\device.o: ..\..\rtthread\include\rtdef.h
+.\objects\device.o: D:\MDK\ARM\ARMCC\Bin\..\include\stdarg.h
+.\objects\device.o: ..\..\rtthread\include\rtservice.h
+.\objects\device.o: ..\..\rtthread\include\rtm.h
+.\objects\device.o: ..\..\rtthread\include\rtthread.h
+.\objects\device.o: ..\..\rtthread\components\finsh\finsh.h

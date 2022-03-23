@@ -1,0 +1,14 @@
+.\objects\at_utils.o: ..\..\rtthread\components\net\at\src\at_utils.c
+.\objects\at_utils.o: ..\..\rtthread\components\net\at\include\at.h
+.\objects\at_utils.o: D:\MDK\ARM\ARMCC\Bin\..\include\stddef.h
+.\objects\at_utils.o: ..\..\rtthread\include\rtthread.h
+.\objects\at_utils.o: ..\firmware\rtconfig.h
+.\objects\at_utils.o: ..\..\rtthread\include\rtdebug.h
+.\objects\at_utils.o: ..\..\rtthread\include\rtdef.h
+.\objects\at_utils.o: D:\MDK\ARM\ARMCC\Bin\..\include\stdarg.h
+.\objects\at_utils.o: ..\..\rtthread\include\rtservice.h
+.\objects\at_utils.o: ..\..\rtthread\include\rtm.h
+.\objects\at_utils.o: ..\..\rtthread\include\rtthread.h
+.\objects\at_utils.o: ..\..\rtthread\components\finsh\finsh.h
+.\objects\at_utils.o: D:\MDK\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\at_utils.o: D:\MDK\ARM\ARMCC\Bin\..\include\stdio.h

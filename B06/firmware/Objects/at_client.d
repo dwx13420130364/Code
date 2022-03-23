@@ -1,0 +1,17 @@
+.\objects\at_client.o: ..\..\rtthread\components\net\at\src\at_client.c
+.\objects\at_client.o: ..\..\rtthread\components\net\at\include\at.h
+.\objects\at_client.o: D:\MDK\ARM\ARMCC\Bin\..\include\stddef.h
+.\objects\at_client.o: ..\..\rtthread\include\rtthread.h
+.\objects\at_client.o: ..\firmware\rtconfig.h
+.\objects\at_client.o: ..\..\rtthread\include\rtdebug.h
+.\objects\at_client.o: ..\..\rtthread\include\rtdef.h
+.\objects\at_client.o: D:\MDK\ARM\ARMCC\Bin\..\include\stdarg.h
+.\objects\at_client.o: ..\..\rtthread\include\rtservice.h
+.\objects\at_client.o: ..\..\rtthread\include\rtm.h
+.\objects\at_client.o: ..\..\rtthread\include\rtthread.h
+.\objects\at_client.o: ..\..\rtthread\components\finsh\finsh.h
+.\objects\at_client.o: D:\MDK\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\at_client.o: D:\MDK\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\at_client.o: D:\MDK\ARM\ARMCC\Bin\..\include\string.h
+.\objects\at_client.o: ..\..\rtthread\components\net\at\include\at_log.h
+.\objects\at_client.o: ..\..\rtthread\include\rtdbg.h

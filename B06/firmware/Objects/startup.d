@@ -1,0 +1,11 @@
+.\objects\startup.o: applications\startup.c
+.\objects\startup.o: ..\..\rtthread\include\rthw.h
+.\objects\startup.o: ..\..\rtthread\include\rtthread.h
+.\objects\startup.o: ..\firmware\rtconfig.h
+.\objects\startup.o: ..\..\rtthread\include\rtdebug.h
+.\objects\startup.o: ..\..\rtthread\include\rtdef.h
+.\objects\startup.o: D:\MDK\ARM\ARMCC\Bin\..\include\stdarg.h
+.\objects\startup.o: ..\..\rtthread\include\rtservice.h
+.\objects\startup.o: ..\..\rtthread\include\rtm.h
+.\objects\startup.o: ..\..\rtthread\include\rtthread.h
+.\objects\startup.o: ..\..\rtthread\components\finsh\finsh.h

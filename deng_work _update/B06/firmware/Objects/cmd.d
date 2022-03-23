@@ -1,0 +1,13 @@
+.\objects\cmd.o: rt_thread\components\finsh\cmd.c
+.\objects\cmd.o: .\rt_thread\include\rtthread.h
+.\objects\cmd.o: ..\firmware\rtconfig.h
+.\objects\cmd.o: .\rt_thread\include\rtdebug.h
+.\objects\cmd.o: .\rt_thread\include\rtdef.h
+.\objects\cmd.o: D:\MDK\ARM\ARMCC\Bin\..\include\stdarg.h
+.\objects\cmd.o: .\rt_thread\include\rtservice.h
+.\objects\cmd.o: .\rt_thread\include\rtm.h
+.\objects\cmd.o: .\rt_thread\include\rtthread.h
+.\objects\cmd.o: rt_thread\components\finsh\finsh.h
+.\objects\cmd.o: D:\MDK\ARM\ARMCC\Bin\..\include\ctype.h
+.\objects\cmd.o: D:\MDK\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\cmd.o: D:\MDK\ARM\ARMCC\Bin\..\include\string.h

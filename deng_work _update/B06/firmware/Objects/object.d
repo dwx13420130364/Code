@@ -1,0 +1,10 @@
+.\objects\object.o: rt_thread\src\object.c
+.\objects\object.o: .\rt_thread\include\rtthread.h
+.\objects\object.o: ..\firmware\rtconfig.h
+.\objects\object.o: .\rt_thread\include\rtdebug.h
+.\objects\object.o: .\rt_thread\include\rtdef.h
+.\objects\object.o: D:\MDK\ARM\ARMCC\Bin\..\include\stdarg.h
+.\objects\object.o: .\rt_thread\include\rtservice.h
+.\objects\object.o: .\rt_thread\include\rtm.h
+.\objects\object.o: .\rt_thread\include\rtthread.h
+.\objects\object.o: .\rt_thread\include\rthw.h

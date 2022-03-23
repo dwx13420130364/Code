@@ -1,0 +1,9 @@
+.\objects\device.o: rt_thread\src\device.c
+.\objects\device.o: .\rt_thread\include\rtthread.h
+.\objects\device.o: ..\firmware\rtconfig.h
+.\objects\device.o: .\rt_thread\include\rtdebug.h
+.\objects\device.o: .\rt_thread\include\rtdef.h
+.\objects\device.o: D:\MDK\ARM\ARMCC\Bin\..\include\stdarg.h
+.\objects\device.o: .\rt_thread\include\rtservice.h
+.\objects\device.o: .\rt_thread\include\rtm.h
+.\objects\device.o: .\rt_thread\include\rtthread.h

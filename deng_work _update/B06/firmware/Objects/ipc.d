@@ -1,0 +1,10 @@
+.\objects\ipc.o: rt_thread\src\ipc.c
+.\objects\ipc.o: .\rt_thread\include\rtthread.h
+.\objects\ipc.o: ..\firmware\rtconfig.h
+.\objects\ipc.o: .\rt_thread\include\rtdebug.h
+.\objects\ipc.o: .\rt_thread\include\rtdef.h
+.\objects\ipc.o: D:\MDK\ARM\ARMCC\Bin\..\include\stdarg.h
+.\objects\ipc.o: .\rt_thread\include\rtservice.h
+.\objects\ipc.o: .\rt_thread\include\rtm.h
+.\objects\ipc.o: .\rt_thread\include\rtthread.h
+.\objects\ipc.o: .\rt_thread\include\rthw.h

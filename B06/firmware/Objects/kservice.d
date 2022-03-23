@@ -1,0 +1,11 @@
+.\objects\kservice.o: ..\..\rtthread\src\kservice.c
+.\objects\kservice.o: ..\..\rtthread\include\rtthread.h
+.\objects\kservice.o: ..\firmware\rtconfig.h
+.\objects\kservice.o: ..\..\rtthread\include\rtdebug.h
+.\objects\kservice.o: ..\..\rtthread\include\rtdef.h
+.\objects\kservice.o: D:\MDK\ARM\ARMCC\Bin\..\include\stdarg.h
+.\objects\kservice.o: ..\..\rtthread\include\rtservice.h
+.\objects\kservice.o: ..\..\rtthread\include\rtm.h
+.\objects\kservice.o: ..\..\rtthread\include\rtthread.h
+.\objects\kservice.o: ..\..\rtthread\components\finsh\finsh.h
+.\objects\kservice.o: ..\..\rtthread\include\rthw.h

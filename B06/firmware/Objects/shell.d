@@ -1,0 +1,15 @@
+.\objects\shell.o: ..\..\rtthread\components\finsh\shell.c
+.\objects\shell.o: ..\..\rtthread\include\rthw.h
+.\objects\shell.o: ..\..\rtthread\include\rtthread.h
+.\objects\shell.o: ..\firmware\rtconfig.h
+.\objects\shell.o: ..\..\rtthread\include\rtdebug.h
+.\objects\shell.o: ..\..\rtthread\include\rtdef.h
+.\objects\shell.o: D:\MDK\ARM\ARMCC\Bin\..\include\stdarg.h
+.\objects\shell.o: ..\..\rtthread\include\rtservice.h
+.\objects\shell.o: ..\..\rtthread\include\rtm.h
+.\objects\shell.o: ..\..\rtthread\include\rtthread.h
+.\objects\shell.o: ..\..\rtthread\components\finsh\finsh.h
+.\objects\shell.o: D:\MDK\ARM\ARMCC\Bin\..\include\string.h
+.\objects\shell.o: D:\MDK\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\shell.o: ..\..\rtthread\components\finsh\shell.h
+.\objects\shell.o: ..\..\rtthread\components\finsh\msh.h

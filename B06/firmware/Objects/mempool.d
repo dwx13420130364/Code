@@ -1,0 +1,11 @@
+.\objects\mempool.o: ..\..\rtthread\src\mempool.c
+.\objects\mempool.o: ..\..\rtthread\include\rthw.h
+.\objects\mempool.o: ..\..\rtthread\include\rtthread.h
+.\objects\mempool.o: ..\firmware\rtconfig.h
+.\objects\mempool.o: ..\..\rtthread\include\rtdebug.h
+.\objects\mempool.o: ..\..\rtthread\include\rtdef.h
+.\objects\mempool.o: D:\MDK\ARM\ARMCC\Bin\..\include\stdarg.h
+.\objects\mempool.o: ..\..\rtthread\include\rtservice.h
+.\objects\mempool.o: ..\..\rtthread\include\rtm.h
+.\objects\mempool.o: ..\..\rtthread\include\rtthread.h
+.\objects\mempool.o: ..\..\rtthread\components\finsh\finsh.h

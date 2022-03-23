@@ -1,0 +1,11 @@
+.\objects\irq.o: ..\..\rtthread\src\irq.c
+.\objects\irq.o: ..\..\rtthread\include\rthw.h
+.\objects\irq.o: ..\..\rtthread\include\rtthread.h
+.\objects\irq.o: ..\firmware\rtconfig.h
+.\objects\irq.o: ..\..\rtthread\include\rtdebug.h
+.\objects\irq.o: ..\..\rtthread\include\rtdef.h
+.\objects\irq.o: D:\MDK\ARM\ARMCC\Bin\..\include\stdarg.h
+.\objects\irq.o: ..\..\rtthread\include\rtservice.h
+.\objects\irq.o: ..\..\rtthread\include\rtm.h
+.\objects\irq.o: ..\..\rtthread\include\rtthread.h
+.\objects\irq.o: ..\..\rtthread\components\finsh\finsh.h

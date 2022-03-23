@@ -1,0 +1,10 @@
+.\objects\cpuport.o: ..\..\rtthread\libcpu\arm\cortex-m4\cpuport.c
+.\objects\cpuport.o: ..\..\rtthread\include\rtthread.h
+.\objects\cpuport.o: ..\firmware\rtconfig.h
+.\objects\cpuport.o: ..\..\rtthread\include\rtdebug.h
+.\objects\cpuport.o: ..\..\rtthread\include\rtdef.h
+.\objects\cpuport.o: D:\MDK\ARM\ARMCC\Bin\..\include\stdarg.h
+.\objects\cpuport.o: ..\..\rtthread\include\rtservice.h
+.\objects\cpuport.o: ..\..\rtthread\include\rtm.h
+.\objects\cpuport.o: ..\..\rtthread\include\rtthread.h
+.\objects\cpuport.o: ..\..\rtthread\components\finsh\finsh.h

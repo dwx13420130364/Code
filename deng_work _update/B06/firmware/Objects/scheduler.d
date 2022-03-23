@@ -1,0 +1,10 @@
+.\objects\scheduler.o: rt_thread\src\scheduler.c
+.\objects\scheduler.o: .\rt_thread\include\rtthread.h
+.\objects\scheduler.o: ..\firmware\rtconfig.h
+.\objects\scheduler.o: .\rt_thread\include\rtdebug.h
+.\objects\scheduler.o: .\rt_thread\include\rtdef.h
+.\objects\scheduler.o: D:\MDK\ARM\ARMCC\Bin\..\include\stdarg.h
+.\objects\scheduler.o: .\rt_thread\include\rtservice.h
+.\objects\scheduler.o: .\rt_thread\include\rtm.h
+.\objects\scheduler.o: .\rt_thread\include\rtthread.h
+.\objects\scheduler.o: .\rt_thread\include\rthw.h

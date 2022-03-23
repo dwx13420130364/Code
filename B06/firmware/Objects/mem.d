@@ -1,0 +1,11 @@
+.\objects\mem.o: ..\..\rtthread\src\mem.c
+.\objects\mem.o: ..\..\rtthread\include\rthw.h
+.\objects\mem.o: ..\..\rtthread\include\rtthread.h
+.\objects\mem.o: ..\firmware\rtconfig.h
+.\objects\mem.o: ..\..\rtthread\include\rtdebug.h
+.\objects\mem.o: ..\..\rtthread\include\rtdef.h
+.\objects\mem.o: D:\MDK\ARM\ARMCC\Bin\..\include\stdarg.h
+.\objects\mem.o: ..\..\rtthread\include\rtservice.h
+.\objects\mem.o: ..\..\rtthread\include\rtm.h
+.\objects\mem.o: ..\..\rtthread\include\rtthread.h
+.\objects\mem.o: ..\..\rtthread\components\finsh\finsh.h

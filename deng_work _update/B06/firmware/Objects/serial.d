@@ -1,0 +1,13 @@
+.\objects\serial.o: rt_thread\components\drivers\serial\serial.c
+.\objects\serial.o: .\rt_thread\include\rthw.h
+.\objects\serial.o: .\rt_thread\include\rtthread.h
+.\objects\serial.o: ..\firmware\rtconfig.h
+.\objects\serial.o: .\rt_thread\include\rtdebug.h
+.\objects\serial.o: .\rt_thread\include\rtdef.h
+.\objects\serial.o: D:\MDK\ARM\ARMCC\Bin\..\include\stdarg.h
+.\objects\serial.o: .\rt_thread\include\rtservice.h
+.\objects\serial.o: .\rt_thread\include\rtm.h
+.\objects\serial.o: .\rt_thread\include\rtthread.h
+.\objects\serial.o: .\rt_thread\components\drivers\include\rtdevice.h
+.\objects\serial.o: .\rt_thread\components\drivers\include\drivers/serial.h
+.\objects\serial.o: D:\MDK\ARM\ARMCC\Bin\..\include\stdint.h

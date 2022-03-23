@@ -1,0 +1,16 @@
+.\objects\at_client.o: applications\at_client.c
+.\objects\at_client.o: applications\at_client.h
+.\objects\at_client.o: .\rt_thread\include\rtthread.h
+.\objects\at_client.o: ..\firmware\rtconfig.h
+.\objects\at_client.o: .\rt_thread\include\rtdebug.h
+.\objects\at_client.o: .\rt_thread\include\rtdef.h
+.\objects\at_client.o: D:\MDK\ARM\ARMCC\Bin\..\include\stdarg.h
+.\objects\at_client.o: .\rt_thread\include\rtservice.h
+.\objects\at_client.o: .\rt_thread\include\rtm.h
+.\objects\at_client.o: .\rt_thread\include\rtthread.h
+.\objects\at_client.o: D:\MDK\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\at_client.o: D:\MDK\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\at_client.o: D:\MDK\ARM\ARMCC\Bin\..\include\string.h
+.\objects\at_client.o: D:\MDK\ARM\ARMCC\Bin\..\include\stdbool.h
+.\objects\at_client.o: applications\param.h
+.\objects\at_client.o: D:\MDK\ARM\ARMCC\Bin\..\include\stdint.h
